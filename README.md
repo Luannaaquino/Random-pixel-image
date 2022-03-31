@@ -2,6 +2,6 @@
 
 ## 📌 Sobre
 
-O projeto tem como objetivo criar uma imagem de pixel aleatório usando a linguagem de programação Java.
+O projeto tem como objetivo criar uma imagem de pixel aleatória usando a linguagem de programação Java.
 
 ---
